@@ -1,0 +1,26 @@
+{
+  "name": "amp-by-example",
+  "version": "1.0.0",
+  "description": "AMP by example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coomysky/amp.git"
+  },
+  "private": true,
+  "main": "app.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "The AMP HTML Authors",
+  "license": "",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-amphtml-validator": "^1.0.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^3.1.0"
+  }
+}
