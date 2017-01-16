@@ -49,6 +49,7 @@ you can change path setting in gulpfile.js
 
 ### gulp watch
 watch scss file changes
+watch amp validate
 
 ### gulp amp:test
 
