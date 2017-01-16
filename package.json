@@ -20,6 +20,7 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-amphtml-validator": "^1.0.0",
+    "gulp-clean-dest": "^0.2.0",
     "gulp-replace": "^0.5.4",
     "gulp-sass": "^3.1.0"
   }
